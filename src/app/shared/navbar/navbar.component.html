@@ -1,24 +1,27 @@
-<header class="flex justify-between px-4 bg-[#48293F]">
-    <!-- Logo -->
-    <div class="pl-4 flex">
-        <img src="logo.png" class="w-24 h-24" alt="Logo">
-    </div>
+<header class="flex justify-between items-stretch px-4 bg-[#48293F]">
+  <!-- Logo -->
+  <div class="pl-4 flex">
+    <img src="logo.png" class="w-24 h-24" alt="Logo">
+  </div>
 
-    <!-- Links -->
-    <cdk-accordion class="absolute top-3 right-3">
-        <cdk-accordion-item #accordionItem="cdkAccordionItem" role="button" tabindex="0"
-            [attr.aria-expanded]="accordionItem.expanded">
-            <div class="border-none p-4 flex justify-center align-center w-32" (click)="accordionItem.toggle()">
-                <i class="ph ph-list text-3xl text-white"></i>
-            </div>
-            <div class="p-4 border-white border-t bg-[#48293f] text-white hover:bg-[#351e2e] hover:font-bold transition-all rounded-b-md"
-                role="region" [style.display]="accordionItem.expanded ? '' : 'none'">
-                <a [routerLink]="'repository'">Repositório</a>
-            </div>
-            <div class="p-4 border-white border-t bg-[#48293f] text-white hover:bg-[#351e2e] hover:font-bold transition-all rounded-b-md"
-                role="region" [style.display]="accordionItem.expanded ? '' : 'none'">
-                <a [routerLink]="'data'">Dados</a>
-            </div>
-        </cdk-accordion-item>
-    </cdk-accordion>
+  <!-- Links -->
+  <div class="flex md:mr-12">
+    <a routerLink="about"
+      class="text-white px-5 hover:bg-[#412539] text-center flex items-center transition-all rounded-md sm:text-lg">Sobre</a>
+    <a routerLink="us"
+      class="hidden text-white px-5 hover:bg-[#412539] text-center items-center transition-all rounded-md md:text-lg md:flex">Quem
+      Somos</a>
+    <div class="flex items-center">
+      <button mat-button [matMenuTriggerFor]="menu" class="drop-menu flex md:hidden">
+        <i class="ph ph-list text-3xl text-white"></i>
+      </button>
+      <mat-menu #menu="matMenu" class="md:hidden">
+        <a mat-menu-item routerLink="data">Dados</a>
+        <a mat-menu-item routerLink="news">Notícias</a>
+        <a mat-menu-item routerLink="repository">Repositórios</a>
+        <a mat-menu-item routerLink="events">Eventos</a>
+        <a mat-menu-item routerLink="courses">Cursos</a>
+      </mat-menu>
+    </div>
+  </div>
 </header>
