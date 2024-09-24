@@ -1,4 +1,4 @@
-<header class="flex justify-between items-stretch px-4 bg-[#48293F]">
+<header class="flex justify-between items-stretch px-4 bg-[--purple-3]">
   <!-- Logo -->
   <div class="pl-4 flex">
     <img src="logo.png" class="w-24 h-24" alt="Logo">
@@ -7,13 +7,13 @@
   <!-- Links -->
   <div class="flex md:mr-12">
     <a routerLink="about"
-      class="text-white px-5 hover:bg-[#412539] text-center flex items-center transition-all rounded-md sm:text-lg">Sobre</a>
+      class="text-[--gray-0] px-5 hover:bg-[--purple-2] text-center flex items-center transition-all rounded-md sm:text-lg">Sobre</a>
     <a routerLink="us"
-      class="hidden text-white px-5 hover:bg-[#412539] text-center items-center transition-all rounded-md md:text-lg md:flex">Quem
+      class="hidden text-[--gray-0] px-5 hover:bg-[--purple-2] text-center items-center transition-all rounded-md md:text-lg md:flex">Quem
       Somos</a>
     <div class="flex items-center">
       <button mat-button [matMenuTriggerFor]="menu" class="drop-menu flex md:hidden">
-        <i class="ph ph-list text-3xl text-white"></i>
+        <i class="ph ph-list text-3xl text-[--gray-0]"></i>
       </button>
       <mat-menu #menu="matMenu" class="md:hidden">
         <a mat-menu-item routerLink="data">Dados</a>
