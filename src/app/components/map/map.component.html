@@ -1,0 +1,14 @@
+<main [ngClass] = "mapAnimationClass">
+    @if (mapCode != 'brasil' ) {
+        <button (click)="backBrasilMap()">
+            <img src="assets/icons/back-arrow.svg"
+                class="w-8 h-8"/>
+        </button>
+    }
+    <div [innerHTML]="svgContent"></div>
+    <app-tooltip 
+        [description]="tooltipDescription"
+        [title]="tooltipTitle"
+        [visible]="tooltipVisible"
+        [position]="tooltipPosition"/>
+</main>
