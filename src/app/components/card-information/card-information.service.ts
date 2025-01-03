@@ -25,6 +25,6 @@ export class CardInformationService {
     }
 
     async reload(mapCode: string) {
-        this.information.set( await this.api.getDetailsInformation(mapCode.toLowerCase()))
+        this.information.set( await this.api.getDetailsInformation(mapCode.toLocaleUpperCase()))
     }
 }

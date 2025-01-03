@@ -1,4 +1,4 @@
-import { Component, inject, Input, OnInit } from '@angular/core';
+import { Component, EventEmitter, inject, Input, OnChanges, OnInit, Output, SimpleChanges } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { TooltipComponent } from "../tooltip/tooltip.component";
@@ -21,6 +21,7 @@ interface IDistrictData {
 })
 export class MapComponent implements OnInit{
   @Input() mapCode!: string;
+  @Output() exportMapCode = new EventEmitter<string>()
   svgContent!: SafeHtml
   selectedDistrict!: string | null
   dataContent!: IDistrictData[]
@@ -60,6 +61,8 @@ export class MapComponent implements OnInit{
       })
     }, 500)
     console.log(mapCode)
+    this.exportMapCode.emit(mapCode)
+    console.log("enviei")
   }
 
   private attachSVGEvents(svgElement: SVGSVGElement): void {

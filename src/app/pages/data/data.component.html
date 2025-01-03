@@ -1,4 +1,7 @@
-<main class="bg-[--gray-0] items-center justify-center px-8 pt-16 flex flex-row flex-auto h-screen sm:px-20 md:px-96">
-    <app-map class="bg-yellow-200" />
-    <app-card-information class="bg-red-400" />
+<main class="bg-[--gray-0] items-center justify-center  px-8 pt-16 flex flex-col flex-auto h-screen sm:px-20 md:px-96">
+    <div class="flex flex-row items-center justify-center">
+        <app-map [mapCode]="mapCode()" (exportMapCode)="updateMapCode($event)"/>
+        <app-card-information [mapCode]="mapCode()" />
+    </div>
+    <app-article [mapCode]="mapCode()" class=""/>
 </main>
