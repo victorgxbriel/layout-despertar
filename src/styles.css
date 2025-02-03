@@ -9,13 +9,13 @@
     font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif, "Open Sans", sans-serif;
     box-sizing: border-box;
 }
-html, body { height: 100%; }
+html, body { height: 100%; color: #6d7578; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 :root {
-  --purple-1: #7d677e;
-  --purple-2: #4f2c4d;
-  --purple-3: #360b41;
+  --purple-1: #e6b39a;
+  --purple-2: #d78060;
+  --purple-3: #ce6141;
   --gray-0: #fafdea;
-  --gray-1: #ccc9aa;
+  --gray-1: #ede3b4;
 }

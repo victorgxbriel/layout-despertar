@@ -1,0 +1,7 @@
+<main>
+    <div>
+        @for (news of newsList; track $index) {
+            <app-card-news [news]="news" />
+        }
+    </div>
+</main>

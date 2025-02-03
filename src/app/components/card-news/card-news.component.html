@@ -1,0 +1,20 @@
+<main>
+    <mat-card>
+        @if (news.imageUrl === '') {
+            <mat-icon aria-hidden="false" aria-label="example home icone" fontIcon="home" ></mat-icon>
+        }
+        @else {
+            <img mat-card-image [src]="news.imageUrl" />
+        }
+        <mat-card-content>
+            <mat-chip-set>
+                @for (tag of news.tags; track $index) {
+                    <mat-basic-chip>{{ tag }}</mat-basic-chip>
+                }
+            </mat-chip-set>
+            <p>
+                {{ news.title }}
+            </p>
+        </mat-card-content>            
+    </mat-card>
+</main>
