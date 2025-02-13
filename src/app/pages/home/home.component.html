@@ -5,6 +5,7 @@
     <h1 class="text-4xl !font-extrabold text-[--purple-3] mb-8 w-full max-w-[384px]">NOTÍCIAS</h1>
 
     <div class="flex flex-col gap-8 mb-12">
+      <!--
       <div class="bg-white rounded-lg max-w-96 hover:scale-105 hover:cursor-pointer transition-all">
         <img [src]="'p1.jpg'" alt="Foto 1">
         <div class="p-6">
@@ -14,8 +15,10 @@
             repellat.</p>
         </div>
       </div>
-
+    -->
+    <app-card-news [news]="news"  />
     </div>
+    <a mat-raised-button [routerLink]="['/news']" >Ver mais notícias...</a>
   </div>
   <!-- Categorias -->
   <div class="bg-[--purple-1] w-full rounded-md max-w-[384px] py-4 px-0 mb-8 md:h-fit md:w-60 md:mt-12 ">
