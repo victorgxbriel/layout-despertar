@@ -1,7 +1,0 @@
-.tooltip {
-    @apply absolute bg-purple-1 text-white text-sm rounded px-2 py-1 shadow-lg z-50;
-}
-
-:host {
-    pointer-events: none;
-}
