@@ -1,6 +1,10 @@
 @if (visible) {
     <div class="tooltip" [ngStyle]="{ top: position.y + 'px', left: position.x + 'px', transform: 'translate(-50%, -100%)'}">
-        <h3>{{ title }}</h3>
-        <p class="text-xs">{{ description }}</p>
+        <p class="font-bold text-base">{{ title }}</p>
+        <p class="text-xs">População: {{ dadosCidade.populacaoTotal | number: '1.0-0' : 'pt-BR' }}</p>
+        <p class="text-xs">Óbitos maternos: {{ dadosCidade.obitosMaternos | number: '1.0-0' : 'pt-BR' }} </p>
+        <p class="text-xs">Nascidos vivos: {{ dadosCidade.nascidosVivos | number: '1.0-0' : 'pt-BR' }} </p>
+        <p class="text-xs">Mortalidade Materna: {{ dadosCidade.mortalidadeMaterna | number: '1.1-2' : 'pt-BR' }}</p>
+        <p class="text-xs">Total de consultas Pré-Natal: {{ dadosCidade.totalConsultasPreNatal | number: '1.0-0' : 'pt-BR' }} </p>
     </div>
 }

@@ -1,4 +1,26 @@
-<h1>Exemplo</h1>
-<p>
-    <span>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae dicta deserunt soluta id vero illum debitis magni minus accusantium, blanditiis libero laudantium perspiciatis, optio animi nobis, quis commodi consequatur et!</span>
-</p>
+@if (dadosMunicipio) {
+    <div>
+        <h1 class="text-2xl font-bold mb-4">{{ dadosMunicipio.nome }}/ {{ mapCode }}</h1>
+
+        <p class="mb-2">
+        O município de <strong>{{ dadosMunicipio.nome }}</strong> possui uma população total de 
+        <strong>{{ dadosMunicipio.populacaoTotal | number:'1.0-0':'pt-BR' }}</strong> habitantes.
+        </p>
+
+        <h2 class="text-xl font-semibold mt-4 mb-2">Saúde Materna e Pré-Natal</h2>
+        <p class="mb-2">
+        No período analisado, foram registrados 
+        <strong>{{ dadosMunicipio.nascidosVivos | number:'1.0-0':'pt-BR' }}</strong> nascidos vivos. 
+        Ocorreram <strong>{{ dadosMunicipio.obitosMaternos | number:'1.0-0':'pt-BR' }}</strong> óbito(s) materno(s), 
+        resultando em uma taxa de mortalidade materna de 
+        <strong>{{ dadosMunicipio.mortalidadeMaterna | number:'1.1-2':'pt-BR' }}</strong>.
+        </p>
+        <p>
+        Foram realizadas um total de 
+        <strong>{{ dadosMunicipio.totalConsultasPreNatal | number:'1.0-0':'pt-BR' }}</strong> consultas de pré-natal.
+        </p>
+
+    </div>
+} @else {
+  <p>Dados do município não disponíveis.</p>
+}

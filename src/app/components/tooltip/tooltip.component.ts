@@ -1,5 +1,6 @@
 import { CommonModule } from '@angular/common';
 import { Component, Input } from '@angular/core';
+import { IDadosMunicipio } from '../../shared/interfaces/interfaces';
 
 @Component({
   selector: 'app-tooltip',
@@ -13,4 +14,5 @@ export class TooltipComponent {
   @Input() title!: string
   @Input() description!: string
   @Input() visible = false
+  @Input() dadosCidade!: IDadosMunicipio
 }

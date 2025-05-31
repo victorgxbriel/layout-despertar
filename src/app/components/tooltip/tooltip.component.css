@@ -1,5 +1,5 @@
 .tooltip {
-    @apply absolute bg-purple-1 text-white text-sm rounded px-2 py-1 shadow-lg z-50;
+    @apply absolute bg-purple-1 text-[--color-seagull-700] text-sm rounded px-2 py-1 shadow-lg z-50;
 }
 
 :host {

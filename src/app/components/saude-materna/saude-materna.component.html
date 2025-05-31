@@ -1,0 +1,287 @@
+<main class=" py-8 px-4 sm:px-6 lg:px-8">
+  <div class="w-full">
+
+    <header class="mb-10 text-center">
+      <h1 class="text-4xl font-bold text-[--color-purple-1] sm:text-5xl">
+        Cuidando de Você: Saúde Materna
+      </h1>
+      <p class="mt-4 text-lg text-gray-600">
+        Informações e apoio para uma jornada materna saudável e empoderadora.
+      </p>
+    </header>
+
+    <div class="prose prose-lg max-w-none prose-p:text-gray-700 prose-headings:text-[--color-purple-2] prose-strong:text-[--color-purple-1] prose-a:text-[--color-purple-3] hover:prose-a:text-[--color-purple-1] mb-8">
+        <p>
+            Olá! Esta área foi criada especialmente para você – mulher, gestante ou mamãe no pós-parto. Queremos que você se sinta informada, segura e empoderada durante toda a sua jornada. Aqui, você encontrará informações importantes sobre sua saúde, seus direitos e os cuidados necessários para viver uma maternidade saudável e tranquila. Lembre-se: conhecimento é poder, e cuidar de você é o primeiro passo para cuidar do seu bebê. Em caso de dúvidas ou preocupações, procure sempre um profissional de saúde.
+        </p>
+    </div>
+
+    <mat-accordion multi="true">
+
+      <mat-expansion-panel class="mb-3 shadow-md hover:shadow-lg transition-shadow">
+        <mat-expansion-panel-header class="bg-purple-50">
+          <mat-panel-title class="font-semibold text-md md:text-xl text-[--color-purple-1]">
+            A. Entendendo a Saúde Materna e a Morbidade
+          </mat-panel-title>
+          @if (!isMobileView()) {
+            <mat-panel-description class="text-gray-600">
+              O que são complicações, sinais de alerta na gravidez e pós-parto.
+            </mat-panel-description>
+          }
+        </mat-expansion-panel-header>
+        <div class="p-6 space-y-6">
+          <div>
+            <h3 class="text-2xl font-semibold mb-3 text-[--color-purple-2]">1. O que é Morbidade Materna?</h3>
+            <p class="mb-3">Morbidade materna são problemas de saúde ou complicações que podem acontecer durante a gravidez, parto ou até um ano após. Não é apenas risco de vida, mas qualquer condição que afete seu bem-estar.</p>
+            <p class="mb-3"><strong>Por que é importante falar sobre isso?</strong></p>
+            <ul class="list-disc list-inside space-y-1 mb-3 pl-4">
+              <li><strong>Prevenção:</strong> Conhecer ajuda a prevenir.</li>
+              <li><strong>Cuidado Adequado:</strong> Buscar ajuda na hora certa.</li>
+              <li><strong>Seus Direitos:</strong> Você tem direito a um acompanhamento de qualidade.</li>
+            </ul>
+
+            <h4 class="font-semibold text-lg mt-4 mb-2 text-[--color-purple-2]">Infográfico: Tipos Comuns de Morbidade Materna</h4>
+            <div class="border-2 border-dashed border-[--color-purple-2] p-4 rounded-lg bg-purple-50/50">
+              <p class="text-center font-medium text-[--color-purple-1] mb-2">Morbidade Materna: O que você precisa saber?</p>
+              <p class="text-sm text-center text-gray-600 mb-4">São complicações de saúde que podem ocorrer durante a gestação, parto ou pós-parto. Conhecer os tipos mais comuns ajuda na prevenção e busca por cuidado.</p>
+              <div class="space-y-3">
+                <div class="flex items-start">
+                  <mat-icon>opacity</mat-icon> <div><strong>Hemorragia:</strong> Perda excessiva de sangue, especialmente após o parto. Fique atenta a sangramentos muito intensos.</div>
+                </div>
+                <div class="flex items-start">
+                  <mat-icon>shield</mat-icon> <div><strong>Infecções:</strong> Podem ocorrer no útero, rins ou feridas. Atenção a febre, calafrios, dor e secreções com mau cheiro.</div>
+                </div>
+                <div class="flex items-start">
+                  <mat-icon>monitor_heart</mat-icon> <div><strong>Pré-eclâmpsia/Eclâmpsia:</strong> Pressão alta na gravidez, inchaço súbito, dor de cabeça forte, alterações na visão. Requer acompanhamento rigoroso.</div>
+                </div>
+                <div class="flex items-start">
+                  <mat-icon>airline_seat_legroom_reduced</mat-icon> <div><strong>Trombose:</strong> Formação de coágulos, geralmente nas pernas. Atenção a dor, inchaço e vermelhidão em uma das pernas.</div>
+                </div>
+                <div class="flex items-start">
+                   <mat-icon>psychology</mat-icon> <div><strong>Problemas de Saúde Mental:</strong> Como depressão pós-parto. Tristeza profunda, falta de interesse, ansiedade excessiva. Não é frescura, procure ajuda!</div>
+                </div>
+              </div>
+              <p class="text-sm text-center text-gray-700 mt-3 font-semibold">Converse com seu profissional de saúde sobre esses riscos e como se prevenir. Um bom pré-natal é fundamental!</p>
+            </div>
+          </div>
+
+          <div class="mt-8">
+            <h3 class="text-2xl font-semibold mb-4 text-[--color-purple-2]">2. Sinais de Alerta na Gravidez: Fique Atenta!</h3>
+            <p class="mb-4">Seu corpo muda muito na gravidez, mas alguns sinais exigem atenção médica imediata. Não hesite em procurar o serviço de saúde se apresentar qualquer um deles:</p>
+            <mat-tab-group animationDuration="0ms">
+              <mat-tab label="1º Trimestre">
+                <div class="p-4">
+                  <ul class="list-disc list-inside space-y-2 marker:text-[--color-purple-3]">
+                    <li>Sangramento vaginal (qualquer quantidade).</li>
+                    <li>Dores abdominais fortes ou cólicas intensas e persistentes.</li>
+                    <li>Vômitos muito frequentes que impedem você de se alimentar ou beber líquidos.</li>
+                    <li>Febre (acima de 37.8°C) ou calafrios.</li>
+                    <li>Dor ou ardor intenso ao urinar, ou urina com cheiro forte/sangue.</li>
+                    <li>Desmaios ou tonturas frequentes.</li>
+                  </ul>
+                </div>
+              </mat-tab>
+              <mat-tab label="2º Trimestre">
+                <div class="p-4">
+                  <ul class="list-disc list-inside space-y-2 marker:text-[--color-purple-3]">
+                    <li>Sangramento vaginal.</li>
+                    <li>Dor de cabeça forte e persistente, que não melhora, ou acompanhada de alterações na visão (ver pontinhos brilhantes, vista embaçada ou dupla).</li>
+                    <li>Inchaço repentino e excessivo no rosto, mãos, pernas ou pés.</li>
+                    <li>Febre (acima de 37.8°C) ou calafrios.</li>
+                    <li>Dor forte e contínua na barriga ou nas costas.</li>
+                    <li>Perda de líquido pela vagina (mesmo que seja pouco).</li>
+                    <li>Diminuição notável ou ausência dos movimentos do bebê (após você já ter começado a senti-los regularmente).</li>
+                    <li>Coceira intensa pelo corpo, especialmente nas palmas das mãos e plantas dos pés.</li>
+                  </ul>
+                </div>
+              </mat-tab>
+              <mat-tab label="3º Trimestre">
+                <div class="p-4">
+                  <ul class="list-disc list-inside space-y-2 marker:text-[--color-purple-3]">
+                    <li>Todos os sinais do 2º trimestre, com atenção redobrada para:
+                        <ul class="list-circle list-inside pl-6 mt-1 space-y-1">
+                            <li>Sinais de pré-eclâmpsia: Dor de cabeça forte, alterações na visão, inchaço súbito, dor na parte superior da barriga ("boca do estômago").</li>
+                        </ul>
+                    </li>
+                    <li>Contrações regulares, dolorosas e que aumentam de frequência e intensidade antes de 37 semanas (sinal de trabalho de parto prematuro).</li>
+                    <li>Diminuição significativa ou ausência dos movimentos do bebê.</li>
+                    <li>Perda de líquido pela vagina (suspeita de bolsa rompida).</li>
+                    <li>Sangramento vaginal vermelho vivo, com ou sem dor.</li>
+                  </ul>
+                </div>
+              </mat-tab>
+            </mat-tab-group>
+          </div>
+
+          <div class="mt-8">
+            <h3 class="text-2xl font-semibold mb-3 text-[--color-purple-2]">3. Sinais de Alerta no Pós-Parto (Puerpério)</h3>
+            <p class="mb-3">O período após o parto também exige atenção. Procure ajuda médica se tiver:</p>
+            <ul class="list-disc list-inside space-y-2 pl-4 marker:text-[--color-purple-3]">
+              <li>Febre (acima de 37.8°C).</li>
+              <li>Sangramento vaginal excessivo (mais que uma menstruação intensa, com coágulos grandes) ou com mau cheiro.</li>
+              <li>Dor, vermelhidão, calor, inchaço ou saída de pus na cicatriz (cesárea ou períneo) ou nas mamas.</li>
+              <li>Dor forte na barriga que não melhora, dor nas pernas (especialmente se uma estiver mais inchada ou dolorida que a outra) ou dor no peito.</li>
+              <li>Falta de ar ou dificuldade para respirar.</li>
+              <li>Tristeza profunda, desânimo persistente, falta de vontade de cuidar de si ou do bebê por mais de duas semanas.</li>
+              <li>Pensamentos de machucar a si mesma ou ao bebê (busque ajuda IMEDIATAMENTE).</li>
+            </ul>
+            <p class="mt-3"><strong>Lembre-se:</strong> Sua consulta de revisão pós-parto é muito importante!</p>
+          </div>
+        </div>
+      </mat-expansion-panel>
+
+      <mat-expansion-panel class="mb-3 shadow-md hover:shadow-lg transition-shadow">
+        <mat-expansion-panel-header class="bg-purple-50">
+          <mat-panel-title class="font-semibold text-md md:text-xl text-[--color-purple-1]">
+            B. Seus Direitos e Cuidados na Gestação e Parto
+          </mat-panel-title>
+          @if (!isMobileView()) {
+          <mat-panel-description class="text-gray-600">
+            Pré-natal, direitos, plano de parto, alimentação e mais.
+          </mat-panel-description>
+        }
+        </mat-expansion-panel-header>
+        <div class="p-6 space-y-6">
+          <h3 class="text-2xl font-semibold mb-3 text-[--color-purple-2]">1. A Importância do Pré-Natal Completo</h3>
+            <p class="mb-3">O pré-natal é o acompanhamento médico durante a gestação, crucial para detectar e tratar problemas, prevenir complicações, tirar dúvidas e preparar para o parto e pós-parto. Inclui verificação de pressão, peso, exames, orientações e escuta dos batimentos do bebê.</p>
+            <div class="my-4 p-4 bg-purple-50 border-l-4 border-[--color-purple-2] text-purple-800">
+                <p class="font-medium">Infográfico aqui: "Checklist do Pré-Natal: Consultas e Exames Essenciais".</p>
+            </div>
+
+            <h3 class="text-2xl font-semibold mb-3 mt-6 text-[--color-purple-2]">2. Seus Direitos como Gestante e Parturiente</h3>
+            <ul class="list-disc list-inside space-y-2 mb-3 pl-4 marker:text-[--color-purple-3]">
+                <li><strong>Acompanhante:</strong> Direito a um acompanhante de sua escolha em todas as etapas.</li>
+                <li><strong>Parto Respeitoso:</strong> Ser tratada com dignidade, informada e ter suas escolhas respeitadas. Veja mais sobre a <button mat-button color="primary" (click)="navigateToMaterial('URL_Politica_Nacional_Atencao_Mulher', true)">Política Nacional de Atenção à Mulher (Exemplo de Link)</button>.</li>
+                <li><strong>Plano de Parto:</strong> Documente seus desejos. <button mat-button (click)="navigateToMaterial('Modelo_Plano_Parto.pdf')">Baixe um modelo (Exemplo)</button>.</li>
+                <li><strong>Violência Obstétrica:</strong> Saiba identificar (atos desrespeitosos, agressões, negligência) e denunciar (Ouvidoria 136, MP).</li>
+            </ul>
+            
+            <h3 class="text-2xl font-semibold mb-3 mt-6 text-[--color-purple-2]">3. Tipos de Parto</h3>
+            <p class="mb-2"><strong>Parto Normal:</strong> Mais fisiológico, recuperação geralmente mais rápida.</p>
+            <p class="mb-2"><strong>Cesariana:</strong> Cirurgia com indicações específicas. Discuta a real necessidade.</p>
+            <p><strong>Parto Humanizado:</strong> Assistência focada no protagonismo da mulher e em intervenções mínimas necessárias.</p>
+
+            <h3 class="text-2xl font-semibold mb-3 mt-6 text-[--color-purple-2]">4. Alimentação e Atividade Física</h3>
+            <p>Alimentação variada, boa hidratação. Evite alimentos crus/malcozidos e álcool. Atividades físicas leves com orientação profissional são bem-vindas.</p>
+        </div>
+      </mat-expansion-panel>
+
+      <mat-expansion-panel class="mb-3 shadow-md hover:shadow-lg transition-shadow">
+        <mat-expansion-panel-header class="bg-purple-50">
+          <mat-panel-title class="font-semibold text-md md:text-xl text-[--color-purple-1]">
+            C. Cuidados no Pós-Parto (Puerpério)
+          </mat-panel-title>
+          @if (!isMobileView()) {
+          <mat-panel-description class="text-gray-600">
+            Mudanças no corpo, amamentação, saúde mental e planejamento.
+          </mat-panel-description>
+        }
+        </mat-expansion-panel-header>
+        <div class="p-6 space-y-6">
+            <h3 class="text-2xl font-semibold mb-3 text-[--color-purple-2]">1. Seu Corpo no Pós-Parto</h3>
+            <p>Espere sangramento vaginal (lóquios), cólicas (útero voltando ao normal), mamas cheias, cansaço. Cuidados com cicatrizes são importantes. Mudanças emocionais são comuns.</p>
+
+            <h3 class="text-2xl font-semibold mb-3 mt-6 text-[--color-purple-2]">2. Amamentação</h3>
+            <p class="mb-3">O leite materno é o melhor alimento. Posição e pega corretas evitam dor. Amamente em livre demanda. Busque ajuda em:</p>
+            <ul class="list-disc list-inside space-y-1 pl-4 marker:text-[--color-purple-3]">
+                <li>Bancos de Leite Humano.</li>
+                <li>Unidades Básicas de Saúde (UBS).</li>
+            </ul>
+            <div class="my-4 p-4 bg-purple-50 border-l-4 border-[--color-purple-2] text-purple-800">
+                <p class="font-medium">Infográfico aqui: "Pega Correta na Amamentação" e "Benefícios do Aleitamento".</p>
+            </div>
+
+            <h3 class="text-2xl font-semibold mb-3 mt-6 text-[--color-purple-2]">3. Saúde Mental Materna</h3>
+            <p class="mb-2">"Baby blues" é comum. Depressão pós-parto é mais séria e precisa de tratamento. Se sentir tristeza intensa e persistente, procure ajuda.</p>
+            <p>Sua rede de apoio é fundamental!</p>
+
+            <h3 class="text-2xl font-semibold mb-3 mt-6 text-[--color-purple-2]">4. Planejamento Reprodutivo Pós-Parto</h3>
+            <p>Converse com seu médico sobre métodos contraceptivos seguros após o parto.</p>
+        </div>
+      </mat-expansion-panel>
+
+      <mat-expansion-panel class="mb-3 shadow-md hover:shadow-lg transition-shadow">
+        <mat-expansion-panel-header class="bg-purple-50">
+          <mat-panel-title class="font-semibold tex-md md:text-xl text-[--color-purple-1]">
+            D. Recursos e Apoio
+          </mat-panel-title>
+          @if (!isMobileView()) {
+          <mat-panel-description class="text-gray-600">
+            Onde buscar ajuda, documentos importantes e FAQ.
+          </mat-panel-description>
+        }
+        </mat-expansion-panel-header>
+        <div class="p-6 space-y-6">
+            <h3 class="text-2xl font-semibold mb-3 text-[--color-purple-2]">1. Onde Buscar Ajuda e Informação</h3>
+            <ul class="list-disc list-inside space-y-2 mb-3 pl-4 marker:text-[--color-purple-3]">
+                <li><strong>Unidades Básicas de Saúde (UBS) / Postos de Saúde.</strong></li>
+                <li><strong>Maternidades de Referência no RN:</strong> (Ex: Maternidade Escola Januário Cicco - MEJC).</li>
+                <li><strong>Ouvidoria do SUS:</strong> Disque 136.</li>
+                <li><strong>Resumos de Documentos:</strong>
+                    <ul class="list-circle list-inside pl-6 mt-1 space-y-1">
+                    <li><button mat-button (click)="navigateToMaterial('URL_Resumo_Politica_Nacional_Mulher', true)">Entenda a Política Nacional de Atenção à Mulher (Resumo)</button></li>
+                    <li><button mat-button (click)="navigateToMaterial('URL_Resumo_Protocolo_AB_Mulheres', true)">Cuidados no Pré-Natal: O que diz o Protocolo (Resumo)</button></li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3 class="text-2xl font-semibold mb-3 mt-6 text-[--color-purple-2]">2. Grupos de Apoio</h3>
+            <p>Informe-se na sua UBS ou maternidade sobre grupos de apoio locais. Grupos online também são uma ótima fonte de suporte.</p>
+
+            <h3 class="text-2xl font-semibold mb-3 mt-6 text-[--color-purple-2]">3. Perguntas Frequentes (FAQ)</h3>
+            <div class="space-y-4">
+                <div>
+                    <p class="font-semibold text-[--color-purple-1]">P: Quantas consultas de pré-natal devo fazer?</p>
+                    <p>R: Mínimo de 6, idealmente mais, com frequência ajustada à fase da gestação. Converse com seu médico.</p>
+                </div>
+                <div>
+                    <p class="font-semibold text-[--color-purple-1]">P: É normal me sentir triste depois que o bebê nasce?</p>
+                    <p>R: O "baby blues" é comum. Se a tristeza for intensa e durar mais de 2 semanas, pode ser depressão pós-parto. Busque ajuda profissional!</p>
+                </div>
+                </div>
+        </div>
+      </mat-expansion-panel>
+
+      <mat-expansion-panel class="mb-3 shadow-md hover:shadow-lg transition-shadow">
+        <mat-expansion-panel-header class="bg-purple-50">
+          <mat-panel-title class="font-semibold text-md md:text-xl text-[--color-purple-1]">
+            E. Materiais Informativos para Você
+          </mat-panel-title>
+          @if (!isMobileView()) {
+          <mat-panel-description class="text-gray-600">
+            Infográficos, checklists e guias práticos.
+          </mat-panel-description>
+        }
+        </mat-expansion-panel-header>
+        <div class="p-6">
+            <p class="mb-4">Adaptamos informações importantes de documentos técnicos para uma linguagem mais acessível:</p>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                <div class="p-4 bg-purple-50 rounded-lg shadow hover:shadow-md transition-shadow">
+                    <h4 class="font-semibold text-lg text-[--color-purple-1] mb-2">Infográfico: Seus Direitos</h4>
+                    <p class="text-sm text-gray-600 mb-3">Um resumo visual dos seus principais direitos na maternidade.</p>
+                    <button mat-stroked-button color="primary" (click)="navigateToMaterial('Infografico_Direitos_Maternidade.pdf')">Ver/Baixar (Exemplo)</button>
+                </div>
+                <div class="p-4 bg-purple-50 rounded-lg shadow hover:shadow-md transition-shadow">
+                    <h4 class="font-semibold text-lg text-[--color-purple-1] mb-2">Checklist: Pré-Natal</h4>
+                    <p class="text-sm text-gray-600 mb-3">Perguntas e pontos para suas consultas.</p>
+                    <button mat-stroked-button color="primary" (click)="navigateToMaterial('Checklist_PreNatal.pdf')">Ver/Baixar (Exemplo)</button>
+                </div>
+                <div class="p-4 bg-purple-50 rounded-lg shadow hover:shadow-md transition-shadow">
+                    <h4 class="font-semibold text-lg text-[--color-purple-1] mb-2">Guia: Plano de Parto</h4>
+                    <p class="text-sm text-gray-600 mb-3">Passo a passo para criar seu plano.</p>
+                    <button mat-stroked-button color="primary" (click)="navigateToMaterial('Guia_Plano_Parto.pdf')">Ver/Baixar (Exemplo)</button>
+                </div>
+                @for (file of files; track $index) {
+                    <div class="p-4 bg-purple-50 rounded-lg shadow hover:shadow-md transition-shadow">
+                        <h4 class="font-semibold text-lg text-[--color-purple-1] mb-2">{{file.name}}</h4>
+                        <!-- <p class="text-sm text-gray-600 mb-3">Passo a passo para criar seu plano.</p> -->
+                        <button mat-stroked-button color="primary" (click)="downloadFile(file)"><mat-icon>download</mat-icon> Baixar</button>
+                    </div>
+                }
+            </div>
+        </div>
+      </mat-expansion-panel>
+
+    </mat-accordion>
+  </div>
+</main>

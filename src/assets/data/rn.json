@@ -1,0 +1,2006 @@
+[
+  {
+    "district": "path4",
+    "details": {
+      "codigo": 240010,
+      "nome": "Acari ",
+      "populacaoTotal": 10597,
+      "obitosMaternos": 1,
+      "nascidosVivos": 93,
+      "mortalidadeMaterna": 1075.3,
+      "totalConsultasPreNatal": 93
+    }
+  },
+  {
+    "district": "path5",
+    "details": {
+      "codigo": 240020,
+      "nome": "Açu ",
+      "populacaoTotal": 56496,
+      "obitosMaternos": 0,
+      "nascidosVivos": 623,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 623
+    }
+  },
+  {
+    "district": "path6",
+    "details": {
+      "codigo": 240030,
+      "nome": "Afonso Bezerra ",
+      "populacaoTotal": 10839,
+      "obitosMaternos": 1,
+      "nascidosVivos": 112,
+      "mortalidadeMaterna": 892.9,
+      "totalConsultasPreNatal": 112
+    }
+  },
+  {
+    "district": "path7",
+    "details": {
+      "codigo": 240040,
+      "nome": "Água Nova ",
+      "populacaoTotal": 2946,
+      "obitosMaternos": 0,
+      "nascidosVivos": 25,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 25
+    }
+  },
+  {
+    "district": "path8",
+    "details": {
+      "codigo": 240050,
+      "nome": "Alexandria ",
+      "populacaoTotal": 13640,
+      "obitosMaternos": 0,
+      "nascidosVivos": 138,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 138
+    }
+  },
+  {
+    "district": "path9",
+    "details": {
+      "codigo": 240060,
+      "nome": "Almino Afonso ",
+      "populacaoTotal": 4687,
+      "obitosMaternos": 0,
+      "nascidosVivos": 43,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 43
+    }
+  },
+  {
+    "district": "path10",
+    "details": {
+      "codigo": 240070,
+      "nome": "Alto do Rodrigues ",
+      "populacaoTotal": 12484,
+      "obitosMaternos": 0,
+      "nascidosVivos": 177,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 177
+    }
+  },
+  {
+    "district": "path11",
+    "details": {
+      "codigo": 240080,
+      "nome": "Angicos ",
+      "populacaoTotal": 11632,
+      "obitosMaternos": 0,
+      "nascidosVivos": 135,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 135
+    }
+  },
+  {
+    "district": "path12",
+    "details": {
+      "codigo": 240090,
+      "nome": "Antônio Martins ",
+      "populacaoTotal": 6577,
+      "obitosMaternos": 0,
+      "nascidosVivos": 47,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 47
+    }
+  },
+  {
+    "district": "path13",
+    "details": {
+      "codigo": 240100,
+      "nome": "Apodi ",
+      "populacaoTotal": 36093,
+      "obitosMaternos": 0,
+      "nascidosVivos": 338,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 338
+    }
+  },
+  {
+    "district": "path14",
+    "details": {
+      "codigo": 240110,
+      "nome": "Areia Branca ",
+      "populacaoTotal": 24093,
+      "obitosMaternos": 0,
+      "nascidosVivos": 315,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 315
+    }
+  },
+  {
+    "district": "path15",
+    "details": {
+      "codigo": 240120,
+      "nome": "Arês ",
+      "populacaoTotal": 13251,
+      "obitosMaternos": 0,
+      "nascidosVivos": 193,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 193
+    }
+  },
+  {
+    "district": "path17",
+    "details": {
+      "codigo": 240140,
+      "nome": "Baía Formosa ",
+      "populacaoTotal": 8825,
+      "obitosMaternos": 0,
+      "nascidosVivos": 125,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 125
+    }
+  },
+  {
+    "district": "path18",
+    "details": {
+      "codigo": 240145,
+      "nome": "Baraúna ",
+      "populacaoTotal": 26913,
+      "obitosMaternos": 0,
+      "nascidosVivos": 314,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 314
+    }
+  },
+  {
+    "district": "path19",
+    "details": {
+      "codigo": 240150,
+      "nome": "Barcelona ",
+      "populacaoTotal": 3986,
+      "obitosMaternos": 0,
+      "nascidosVivos": 29,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 29
+    }
+  },
+  {
+    "district": "path20",
+    "details": {
+      "codigo": 240160,
+      "nome": "Bento Fernandes ",
+      "populacaoTotal": 4807,
+      "obitosMaternos": 0,
+      "nascidosVivos": 65,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 65
+    }
+  },
+  {
+    "district": "path62",
+    "details": {
+      "codigo": 240530,
+      "nome": "Boa Saúde ",
+      "populacaoTotal": 9051,
+      "obitosMaternos": 0,
+      "nascidosVivos": 122,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 122
+    }
+  },
+  {
+    "district": "path21",
+    "details": {
+      "codigo": 240165,
+      "nome": "Bodó ",
+      "populacaoTotal": 2306,
+      "obitosMaternos": 0,
+      "nascidosVivos": 43,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 43
+    }
+  },
+  {
+    "district": "path22",
+    "details": {
+      "codigo": 240170,
+      "nome": "Bom Jesus ",
+      "populacaoTotal": 9952,
+      "obitosMaternos": 0,
+      "nascidosVivos": 124,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 124
+    }
+  },
+  {
+    "district": "path23",
+    "details": {
+      "codigo": 240180,
+      "nome": "Brejinho ",
+      "populacaoTotal": 12202,
+      "obitosMaternos": 0,
+      "nascidosVivos": 150,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 150
+    }
+  },
+  {
+    "district": "path24",
+    "details": {
+      "codigo": 240185,
+      "nome": "Caiçara do Norte ",
+      "populacaoTotal": 6293,
+      "obitosMaternos": 0,
+      "nascidosVivos": 66,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 66
+    }
+  },
+  {
+    "district": "path25",
+    "details": {
+      "codigo": 240190,
+      "nome": "Caiçara do Rio do Vento ",
+      "populacaoTotal": 3268,
+      "obitosMaternos": 0,
+      "nascidosVivos": 29,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 29
+    }
+  },
+  {
+    "district": "path26",
+    "details": {
+      "codigo": 240200,
+      "nome": "Caicó ",
+      "populacaoTotal": 61146,
+      "obitosMaternos": 1,
+      "nascidosVivos": 599,
+      "mortalidadeMaterna": 166.9,
+      "totalConsultasPreNatal": 599
+    }
+  },
+  {
+    "district": "path16",
+    "details": {
+      "codigo": 240130,
+      "nome": "Campo Grande ",
+      "populacaoTotal": 9730,
+      "obitosMaternos": 0,
+      "nascidosVivos": 82,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 82
+    }
+  },
+  {
+    "district": "path27",
+    "details": {
+      "codigo": 240210,
+      "nome": "Campo Redondo ",
+      "populacaoTotal": 10215,
+      "obitosMaternos": 0,
+      "nascidosVivos": 104,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 104
+    }
+  },
+  {
+    "district": "path28",
+    "details": {
+      "codigo": 240220,
+      "nome": "Canguaretama ",
+      "populacaoTotal": 29668,
+      "obitosMaternos": 1,
+      "nascidosVivos": 448,
+      "mortalidadeMaterna": 223.2,
+      "totalConsultasPreNatal": 448
+    }
+  },
+  {
+    "district": "path29",
+    "details": {
+      "codigo": 240230,
+      "nome": "Caraúbas ",
+      "populacaoTotal": 19727,
+      "obitosMaternos": 0,
+      "nascidosVivos": 181,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 181
+    }
+  },
+  {
+    "district": "path30",
+    "details": {
+      "codigo": 240240,
+      "nome": "Carnaúba dos Dantas ",
+      "populacaoTotal": 7992,
+      "obitosMaternos": 0,
+      "nascidosVivos": 92,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 92
+    }
+  },
+  {
+    "district": "path31",
+    "details": {
+      "codigo": 240250,
+      "nome": "Carnaubais ",
+      "populacaoTotal": 9714,
+      "obitosMaternos": 0,
+      "nascidosVivos": 103,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 103
+    }
+  },
+  {
+    "district": "path32",
+    "details": {
+      "codigo": 240260,
+      "nome": "Ceará-Mirim ",
+      "populacaoTotal": 79115,
+      "obitosMaternos": 1,
+      "nascidosVivos": 960,
+      "mortalidadeMaterna": 104.2,
+      "totalConsultasPreNatal": 960
+    }
+  },
+  {
+    "district": "path33",
+    "details": {
+      "codigo": 240270,
+      "nome": "Cerro Corá ",
+      "populacaoTotal": 11000,
+      "obitosMaternos": 0,
+      "nascidosVivos": 140,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 140
+    }
+  },
+  {
+    "district": "path34",
+    "details": {
+      "codigo": 240280,
+      "nome": "Coronel Ezequiel ",
+      "populacaoTotal": 5117,
+      "obitosMaternos": 0,
+      "nascidosVivos": 52,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 52
+    }
+  },
+  {
+    "district": "path35",
+    "details": {
+      "codigo": 240290,
+      "nome": "Coronel João Pessoa ",
+      "populacaoTotal": 4237,
+      "obitosMaternos": 0,
+      "nascidosVivos": 50,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 50
+    }
+  },
+  {
+    "district": "path36",
+    "details": {
+      "codigo": 240300,
+      "nome": "Cruzeta ",
+      "populacaoTotal": 8005,
+      "obitosMaternos": 0,
+      "nascidosVivos": 57,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 57
+    }
+  },
+  {
+    "district": "path37",
+    "details": {
+      "codigo": 240310,
+      "nome": "Currais Novos ",
+      "populacaoTotal": 41313,
+      "obitosMaternos": 1,
+      "nascidosVivos": 418,
+      "mortalidadeMaterna": 239.2,
+      "totalConsultasPreNatal": 418
+    }
+  },
+  {
+    "district": "path38",
+    "details": {
+      "codigo": 240320,
+      "nome": "Doutor Severiano ",
+      "populacaoTotal": 7044,
+      "obitosMaternos": 0,
+      "nascidosVivos": 85,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 85
+    }
+  },
+  {
+    "district": "path40",
+    "details": {
+      "codigo": 240330,
+      "nome": "Encanto ",
+      "populacaoTotal": 6016,
+      "obitosMaternos": 0,
+      "nascidosVivos": 66,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 66
+    }
+  },
+  {
+    "district": "path41",
+    "details": {
+      "codigo": 240340,
+      "nome": "Equador ",
+      "populacaoTotal": 5360,
+      "obitosMaternos": 0,
+      "nascidosVivos": 66,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 66
+    }
+  },
+  {
+    "district": "path42",
+    "details": {
+      "codigo": 240350,
+      "nome": "Espírito Santo ",
+      "populacaoTotal": 10620,
+      "obitosMaternos": 0,
+      "nascidosVivos": 98,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 98
+    }
+  },
+  {
+    "district": "path43",
+    "details": {
+      "codigo": 240360,
+      "nome": "Extremoz ",
+      "populacaoTotal": 61635,
+      "obitosMaternos": 1,
+      "nascidosVivos": 607,
+      "mortalidadeMaterna": 164.7,
+      "totalConsultasPreNatal": 607
+    }
+  },
+  {
+    "district": "path44",
+    "details": {
+      "codigo": 240370,
+      "nome": "Felipe Guerra ",
+      "populacaoTotal": 5944,
+      "obitosMaternos": 0,
+      "nascidosVivos": 47,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 47
+    }
+  },
+  {
+    "district": "path45",
+    "details": {
+      "codigo": 240375,
+      "nome": "Fernando Pedroza ",
+      "populacaoTotal": 2938,
+      "obitosMaternos": 0,
+      "nascidosVivos": 33,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 33
+    }
+  },
+  {
+    "district": "path46",
+    "details": {
+      "codigo": 240380,
+      "nome": "Florânia ",
+      "populacaoTotal": 10196,
+      "obitosMaternos": 0,
+      "nascidosVivos": 102,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 102
+    }
+  },
+  {
+    "district": "path47",
+    "details": {
+      "codigo": 240390,
+      "nome": "Francisco Dantas ",
+      "populacaoTotal": 2700,
+      "obitosMaternos": 0,
+      "nascidosVivos": 28,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 28
+    }
+  },
+  {
+    "district": "path48",
+    "details": {
+      "codigo": 240400,
+      "nome": "Frutuoso Gomes ",
+      "populacaoTotal": 4122,
+      "obitosMaternos": 0,
+      "nascidosVivos": 49,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 49
+    }
+  },
+  {
+    "district": "path49",
+    "details": {
+      "codigo": 240410,
+      "nome": "Galinhos ",
+      "populacaoTotal": 2104,
+      "obitosMaternos": 0,
+      "nascidosVivos": 37,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 37
+    }
+  },
+  {
+    "district": "path50",
+    "details": {
+      "codigo": 240420,
+      "nome": "Goianinha ",
+      "populacaoTotal": 26741,
+      "obitosMaternos": 0,
+      "nascidosVivos": 429,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 429
+    }
+  },
+  {
+    "district": "path51",
+    "details": {
+      "codigo": 240430,
+      "nome": "Governador Dix-Sept Rosado ",
+      "populacaoTotal": 11938,
+      "obitosMaternos": 0,
+      "nascidosVivos": 131,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 131
+    }
+  },
+  {
+    "district": "path52",
+    "details": {
+      "codigo": 240440,
+      "nome": "Grossos ",
+      "populacaoTotal": 9924,
+      "obitosMaternos": 0,
+      "nascidosVivos": 90,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 90
+    }
+  },
+  {
+    "district": "path53",
+    "details": {
+      "codigo": 240450,
+      "nome": "Guamaré ",
+      "populacaoTotal": 15295,
+      "obitosMaternos": 0,
+      "nascidosVivos": 244,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 244
+    }
+  },
+  {
+    "district": "path54",
+    "details": {
+      "codigo": 240460,
+      "nome": "Ielmo Marinho ",
+      "populacaoTotal": 11615,
+      "obitosMaternos": 0,
+      "nascidosVivos": 95,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 95
+    }
+  },
+  {
+    "district": "path55",
+    "details": {
+      "codigo": 240470,
+      "nome": "Ipanguaçu ",
+      "populacaoTotal": 14131,
+      "obitosMaternos": 0,
+      "nascidosVivos": 148,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 148
+    }
+  },
+  {
+    "district": "path56",
+    "details": {
+      "codigo": 240480,
+      "nome": "Ipueira ",
+      "populacaoTotal": 2035,
+      "obitosMaternos": 0,
+      "nascidosVivos": 15,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 15
+    }
+  },
+  {
+    "district": "path57",
+    "details": {
+      "codigo": 240485,
+      "nome": "Itajá ",
+      "populacaoTotal": 7292,
+      "obitosMaternos": 0,
+      "nascidosVivos": 96,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 96
+    }
+  },
+  {
+    "district": "path58",
+    "details": {
+      "codigo": 240490,
+      "nome": "Itaú ",
+      "populacaoTotal": 5320,
+      "obitosMaternos": 0,
+      "nascidosVivos": 59,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 59
+    }
+  },
+  {
+    "district": "path59",
+    "details": {
+      "codigo": 240500,
+      "nome": "Jaçanã ",
+      "populacaoTotal": 7834,
+      "obitosMaternos": 0,
+      "nascidosVivos": 112,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 112
+    }
+  },
+  {
+    "district": "path60",
+    "details": {
+      "codigo": 240510,
+      "nome": "Jandaíra ",
+      "populacaoTotal": 6562,
+      "obitosMaternos": 0,
+      "nascidosVivos": 77,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 77
+    }
+  },
+  {
+    "district": "path61",
+    "details": {
+      "codigo": 240520,
+      "nome": "Janduís ",
+      "populacaoTotal": 4746,
+      "obitosMaternos": 0,
+      "nascidosVivos": 55,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 55
+    }
+  },
+  {
+    "district": "path63",
+    "details": {
+      "codigo": 240540,
+      "nome": "Japi ",
+      "populacaoTotal": 5117,
+      "obitosMaternos": 0,
+      "nascidosVivos": 82,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 82
+    }
+  },
+  {
+    "district": "path64",
+    "details": {
+      "codigo": 240550,
+      "nome": "Jardim de Angicos ",
+      "populacaoTotal": 2437,
+      "obitosMaternos": 0,
+      "nascidosVivos": 34,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 34
+    }
+  },
+  {
+    "district": "path65",
+    "details": {
+      "codigo": 240560,
+      "nome": "Jardim de Piranhas ",
+      "populacaoTotal": 13977,
+      "obitosMaternos": 1,
+      "nascidosVivos": 146,
+      "mortalidadeMaterna": 684.9,
+      "totalConsultasPreNatal": 146
+    }
+  },
+  {
+    "district": "path66",
+    "details": {
+      "codigo": 240570,
+      "nome": "Jardim do Seridó ",
+      "populacaoTotal": 11655,
+      "obitosMaternos": 0,
+      "nascidosVivos": 86,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 86
+    }
+  },
+  {
+    "district": "path67",
+    "details": {
+      "codigo": 240580,
+      "nome": "João Câmara ",
+      "populacaoTotal": 33290,
+      "obitosMaternos": 0,
+      "nascidosVivos": 515,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 515
+    }
+  },
+  {
+    "district": "path68",
+    "details": {
+      "codigo": 240590,
+      "nome": "João Dias ",
+      "populacaoTotal": 2076,
+      "obitosMaternos": 0,
+      "nascidosVivos": 12,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 12
+    }
+  },
+  {
+    "district": "path69",
+    "details": {
+      "codigo": 240600,
+      "nome": "José da Penha ",
+      "populacaoTotal": 5803,
+      "obitosMaternos": 0,
+      "nascidosVivos": 66,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 66
+    }
+  },
+  {
+    "district": "path70",
+    "details": {
+      "codigo": 240610,
+      "nome": "Jucurutu ",
+      "populacaoTotal": 17793,
+      "obitosMaternos": 0,
+      "nascidosVivos": 159,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 159
+    }
+  },
+  {
+    "district": "path71",
+    "details": {
+      "codigo": 240615,
+      "nome": "Jundiá ",
+      "populacaoTotal": 3739,
+      "obitosMaternos": 0,
+      "nascidosVivos": 48,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 48
+    }
+  },
+  {
+    "district": "path72",
+    "details": {
+      "codigo": 240620,
+      "nome": "Lagoa d'Anta ",
+      "populacaoTotal": 6654,
+      "obitosMaternos": 0,
+      "nascidosVivos": 87,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 87
+    }
+  },
+  {
+    "district": "path73",
+    "details": {
+      "codigo": 240630,
+      "nome": "Lagoa de Pedras ",
+      "populacaoTotal": 7338,
+      "obitosMaternos": 0,
+      "nascidosVivos": 99,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 99
+    }
+  },
+  {
+    "district": "path74",
+    "details": {
+      "codigo": 240640,
+      "nome": "Lagoa de Velhos ",
+      "populacaoTotal": 2567,
+      "obitosMaternos": 0,
+      "nascidosVivos": 33,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 33
+    }
+  },
+  {
+    "district": "path75",
+    "details": {
+      "codigo": 240650,
+      "nome": "Lagoa Nova ",
+      "populacaoTotal": 15573,
+      "obitosMaternos": 0,
+      "nascidosVivos": 196,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 196
+    }
+  },
+  {
+    "district": "path76",
+    "details": {
+      "codigo": 240660,
+      "nome": "Lagoa Salgada ",
+      "populacaoTotal": 8319,
+      "obitosMaternos": 0,
+      "nascidosVivos": 120,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 120
+    }
+  },
+  {
+    "district": "path77",
+    "details": {
+      "codigo": 240670,
+      "nome": "Lajes ",
+      "populacaoTotal": 9866,
+      "obitosMaternos": 0,
+      "nascidosVivos": 106,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 106
+    }
+  },
+  {
+    "district": "path78",
+    "details": {
+      "codigo": 240680,
+      "nome": "Lajes Pintadas ",
+      "populacaoTotal": 4787,
+      "obitosMaternos": 0,
+      "nascidosVivos": 64,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 64
+    }
+  },
+  {
+    "district": "path79",
+    "details": {
+      "codigo": 240690,
+      "nome": "Lucrécia ",
+      "populacaoTotal": 3490,
+      "obitosMaternos": 0,
+      "nascidosVivos": 50,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 50
+    }
+  },
+  {
+    "district": "path80",
+    "details": {
+      "codigo": 240700,
+      "nome": "Luís Gomes ",
+      "populacaoTotal": 9070,
+      "obitosMaternos": 0,
+      "nascidosVivos": 94,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 94
+    }
+  },
+  {
+    "district": "path81",
+    "details": {
+      "codigo": 240710,
+      "nome": "Macaíba ",
+      "populacaoTotal": 82249,
+      "obitosMaternos": 2,
+      "nascidosVivos": 834,
+      "mortalidadeMaterna": 239.8,
+      "totalConsultasPreNatal": 834
+    }
+  },
+  {
+    "district": "path82",
+    "details": {
+      "codigo": 240720,
+      "nome": "Macau ",
+      "populacaoTotal": 27369,
+      "obitosMaternos": 1,
+      "nascidosVivos": 271,
+      "mortalidadeMaterna": 369.0,
+      "totalConsultasPreNatal": 271
+    }
+  },
+  {
+    "district": "path83",
+    "details": {
+      "codigo": 240725,
+      "nome": "Major Sales ",
+      "populacaoTotal": 3924,
+      "obitosMaternos": 0,
+      "nascidosVivos": 42,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 42
+    }
+  },
+  {
+    "district": "path84",
+    "details": {
+      "codigo": 240730,
+      "nome": "Marcelino Vieira ",
+      "populacaoTotal": 7896,
+      "obitosMaternos": 0,
+      "nascidosVivos": 77,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 77
+    }
+  },
+  {
+    "district": "path85",
+    "details": {
+      "codigo": 240740,
+      "nome": "Martins ",
+      "populacaoTotal": 8179,
+      "obitosMaternos": 0,
+      "nascidosVivos": 71,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 71
+    }
+  },
+  {
+    "district": "path86",
+    "details": {
+      "codigo": 240750,
+      "nome": "Maxaranguape ",
+      "populacaoTotal": 10255,
+      "obitosMaternos": 0,
+      "nascidosVivos": 137,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 137
+    }
+  },
+  {
+    "district": "path87",
+    "details": {
+      "codigo": 240760,
+      "nome": "Messias Targino ",
+      "populacaoTotal": 4274,
+      "obitosMaternos": 0,
+      "nascidosVivos": 38,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 38
+    }
+  },
+  {
+    "district": "path88",
+    "details": {
+      "codigo": 240770,
+      "nome": "Montanhas ",
+      "populacaoTotal": 11444,
+      "obitosMaternos": 0,
+      "nascidosVivos": 161,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 161
+    }
+  },
+  {
+    "district": "path89",
+    "details": {
+      "codigo": 240780,
+      "nome": "Monte Alegre ",
+      "populacaoTotal": 23031,
+      "obitosMaternos": 0,
+      "nascidosVivos": 251,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 251
+    }
+  },
+  {
+    "district": "path90",
+    "details": {
+      "codigo": 240790,
+      "nome": "Monte das Gameleiras ",
+      "populacaoTotal": 2276,
+      "obitosMaternos": 0,
+      "nascidosVivos": 40,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 40
+    }
+  },
+  {
+    "district": "path91",
+    "details": {
+      "codigo": 240800,
+      "nome": "Mossoró ",
+      "populacaoTotal": 264577,
+      "obitosMaternos": 1,
+      "nascidosVivos": 3254,
+      "mortalidadeMaterna": 30.7,
+      "totalConsultasPreNatal": 3254
+    }
+  },
+  {
+    "district": "path92",
+    "details": {
+      "codigo": 240810,
+      "nome": "Natal ",
+      "populacaoTotal": 751300,
+      "obitosMaternos": 3,
+      "nascidosVivos": 9357,
+      "mortalidadeMaterna": 32.1,
+      "totalConsultasPreNatal": 9357
+    }
+  },
+  {
+    "district": "path93",
+    "details": {
+      "codigo": 240820,
+      "nome": "Nísia Floresta ",
+      "populacaoTotal": 31942,
+      "obitosMaternos": 0,
+      "nascidosVivos": 338,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 338
+    }
+  },
+  {
+    "district": "path94",
+    "details": {
+      "codigo": 240830,
+      "nome": "Nova Cruz ",
+      "populacaoTotal": 34269,
+      "obitosMaternos": 0,
+      "nascidosVivos": 393,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 393
+    }
+  },
+  {
+    "district": "path95",
+    "details": {
+      "codigo": 240840,
+      "nome": "Olho d'Água do Borges ",
+      "populacaoTotal": 3905,
+      "obitosMaternos": 0,
+      "nascidosVivos": 33,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 33
+    }
+  },
+  {
+    "district": "path96",
+    "details": {
+      "codigo": 240850,
+      "nome": "Ouro Branco ",
+      "populacaoTotal": 4913,
+      "obitosMaternos": 0,
+      "nascidosVivos": 32,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 32
+    }
+  },
+  {
+    "district": "path97",
+    "details": {
+      "codigo": 240860,
+      "nome": "Paraná ",
+      "populacaoTotal": 3934,
+      "obitosMaternos": 0,
+      "nascidosVivos": 55,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 55
+    }
+  },
+  {
+    "district": "path98",
+    "details": {
+      "codigo": 240870,
+      "nome": "Paraú ",
+      "populacaoTotal": 3579,
+      "obitosMaternos": 0,
+      "nascidosVivos": 38,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 38
+    }
+  },
+  {
+    "district": "path99",
+    "details": {
+      "codigo": 240880,
+      "nome": "Parazinho ",
+      "populacaoTotal": 4801,
+      "obitosMaternos": 0,
+      "nascidosVivos": 86,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 86
+    }
+  },
+  {
+    "district": "path100",
+    "details": {
+      "codigo": 240890,
+      "nome": "Parelhas ",
+      "populacaoTotal": 21499,
+      "obitosMaternos": 0,
+      "nascidosVivos": 245,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 245
+    }
+  },
+  {
+    "district": "path39",
+    "details": {
+      "codigo": 240325,
+      "nome": "Parnamirim ",
+      "populacaoTotal": 252716,
+      "obitosMaternos": 1,
+      "nascidosVivos": 3256,
+      "mortalidadeMaterna": 30.7,
+      "totalConsultasPreNatal": 3256
+    }
+  },
+  {
+    "district": "path102",
+    "details": {
+      "codigo": 240910,
+      "nome": "Passa e Fica ",
+      "populacaoTotal": 10896,
+      "obitosMaternos": 0,
+      "nascidosVivos": 187,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 187
+    }
+  },
+  {
+    "district": "path103",
+    "details": {
+      "codigo": 240920,
+      "nome": "Passagem ",
+      "populacaoTotal": 3115,
+      "obitosMaternos": 0,
+      "nascidosVivos": 38,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 38
+    }
+  },
+  {
+    "district": "path104",
+    "details": {
+      "codigo": 240930,
+      "nome": "Patu ",
+      "populacaoTotal": 11007,
+      "obitosMaternos": 0,
+      "nascidosVivos": 97,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 97
+    }
+  },
+  {
+    "district": "path106",
+    "details": {
+      "codigo": 240940,
+      "nome": "Pau dos Ferros ",
+      "populacaoTotal": 30479,
+      "obitosMaternos": 0,
+      "nascidosVivos": 385,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 385
+    }
+  },
+  {
+    "district": "path107",
+    "details": {
+      "codigo": 240950,
+      "nome": "Pedra Grande ",
+      "populacaoTotal": 3618,
+      "obitosMaternos": 0,
+      "nascidosVivos": 53,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 53
+    }
+  },
+  {
+    "district": "path108",
+    "details": {
+      "codigo": 240960,
+      "nome": "Pedra Preta ",
+      "populacaoTotal": 2441,
+      "obitosMaternos": 0,
+      "nascidosVivos": 15,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 15
+    }
+  },
+  {
+    "district": "path109",
+    "details": {
+      "codigo": 240970,
+      "nome": "Pedro Avelino ",
+      "populacaoTotal": 6242,
+      "obitosMaternos": 0,
+      "nascidosVivos": 53,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 53
+    }
+  },
+  {
+    "district": "path110",
+    "details": {
+      "codigo": 240980,
+      "nome": "Pedro Velho ",
+      "populacaoTotal": 13824,
+      "obitosMaternos": 0,
+      "nascidosVivos": 192,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 192
+    }
+  },
+  {
+    "district": "path111",
+    "details": {
+      "codigo": 240990,
+      "nome": "Pendências ",
+      "populacaoTotal": 12278,
+      "obitosMaternos": 0,
+      "nascidosVivos": 107,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 107
+    }
+  },
+  {
+    "district": "path112",
+    "details": {
+      "codigo": 241000,
+      "nome": "Pilões ",
+      "populacaoTotal": 2965,
+      "obitosMaternos": 0,
+      "nascidosVivos": 29,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 29
+    }
+  },
+  {
+    "district": "path113",
+    "details": {
+      "codigo": 241010,
+      "nome": "Poço Branco ",
+      "populacaoTotal": 12390,
+      "obitosMaternos": 1,
+      "nascidosVivos": 153,
+      "mortalidadeMaterna": 653.6,
+      "totalConsultasPreNatal": 153
+    }
+  },
+  {
+    "district": "path114",
+    "details": {
+      "codigo": 241020,
+      "nome": "Portalegre ",
+      "populacaoTotal": 7601,
+      "obitosMaternos": 0,
+      "nascidosVivos": 72,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 72
+    }
+  },
+  {
+    "district": "path115",
+    "details": {
+      "codigo": 241025,
+      "nome": "Porto do Mangue ",
+      "populacaoTotal": 5228,
+      "obitosMaternos": 0,
+      "nascidosVivos": 61,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 61
+    }
+  },
+  {
+    "district": "path117",
+    "details": {
+      "codigo": 241040,
+      "nome": "Pureza ",
+      "populacaoTotal": 9362,
+      "obitosMaternos": 1,
+      "nascidosVivos": 127,
+      "mortalidadeMaterna": 787.4,
+      "totalConsultasPreNatal": 127
+    }
+  },
+  {
+    "district": "path118",
+    "details": {
+      "codigo": 241050,
+      "nome": "Rafael Fernandes ",
+      "populacaoTotal": 5432,
+      "obitosMaternos": 0,
+      "nascidosVivos": 53,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 53
+    }
+  },
+  {
+    "district": "path119",
+    "details": {
+      "codigo": 241060,
+      "nome": "Rafael Godeiro ",
+      "populacaoTotal": 2934,
+      "obitosMaternos": 0,
+      "nascidosVivos": 24,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 24
+    }
+  },
+  {
+    "district": "path120",
+    "details": {
+      "codigo": 241070,
+      "nome": "Riacho da Cruz ",
+      "populacaoTotal": 2701,
+      "obitosMaternos": 0,
+      "nascidosVivos": 22,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 22
+    }
+  },
+  {
+    "district": "path121",
+    "details": {
+      "codigo": 241080,
+      "nome": "Riacho de Santana ",
+      "populacaoTotal": 4127,
+      "obitosMaternos": 0,
+      "nascidosVivos": 46,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 46
+    }
+  },
+  {
+    "district": "path122",
+    "details": {
+      "codigo": 241090,
+      "nome": "Riachuelo ",
+      "populacaoTotal": 7389,
+      "obitosMaternos": 0,
+      "nascidosVivos": 89,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 89
+    }
+  },
+  {
+    "district": "path101",
+    "details": {
+      "codigo": 240895,
+      "nome": "Rio do Fogo ",
+      "populacaoTotal": 10351,
+      "obitosMaternos": 0,
+      "nascidosVivos": 192,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 192
+    }
+  },
+  {
+    "district": "path123",
+    "details": {
+      "codigo": 241100,
+      "nome": "Rodolfo Fernandes ",
+      "populacaoTotal": 4242,
+      "obitosMaternos": 0,
+      "nascidosVivos": 48,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 48
+    }
+  },
+  {
+    "district": "path125",
+    "details": {
+      "codigo": 241110,
+      "nome": "Ruy Barbosa ",
+      "populacaoTotal": 3206,
+      "obitosMaternos": 0,
+      "nascidosVivos": 29,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 29
+    }
+  },
+  {
+    "district": "path126",
+    "details": {
+      "codigo": 241120,
+      "nome": "Santa Cruz ",
+      "populacaoTotal": 37313,
+      "obitosMaternos": 1,
+      "nascidosVivos": 506,
+      "mortalidadeMaterna": 197.6,
+      "totalConsultasPreNatal": 506
+    }
+  },
+  {
+    "district": "path105",
+    "details": {
+      "codigo": 240933,
+      "nome": "Santa Maria ",
+      "populacaoTotal": 4847,
+      "obitosMaternos": 0,
+      "nascidosVivos": 55,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 55
+    }
+  },
+  {
+    "district": "path127",
+    "details": {
+      "codigo": 241140,
+      "nome": "Santana do Matos ",
+      "populacaoTotal": 12456,
+      "obitosMaternos": 0,
+      "nascidosVivos": 107,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 107
+    }
+  },
+  {
+    "district": "path128",
+    "details": {
+      "codigo": 241142,
+      "nome": "Santana do Seridó ",
+      "populacaoTotal": 2696,
+      "obitosMaternos": 0,
+      "nascidosVivos": 29,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 29
+    }
+  },
+  {
+    "district": "path129",
+    "details": {
+      "codigo": 241150,
+      "nome": "Santo Antônio ",
+      "populacaoTotal": 22177,
+      "obitosMaternos": 0,
+      "nascidosVivos": 251,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 251
+    }
+  },
+  {
+    "district": "path130",
+    "details": {
+      "codigo": 241160,
+      "nome": "São Bento do Norte ",
+      "populacaoTotal": 3304,
+      "obitosMaternos": 0,
+      "nascidosVivos": 51,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 51
+    }
+  },
+  {
+    "district": "path131",
+    "details": {
+      "codigo": 241170,
+      "nome": "São Bento do Trairí ",
+      "populacaoTotal": 3792,
+      "obitosMaternos": 0,
+      "nascidosVivos": 51,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 51
+    }
+  },
+  {
+    "district": "path132",
+    "details": {
+      "codigo": 241180,
+      "nome": "São Fernando ",
+      "populacaoTotal": 3492,
+      "obitosMaternos": 0,
+      "nascidosVivos": 27,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 27
+    }
+  },
+  {
+    "district": "path133",
+    "details": {
+      "codigo": 241190,
+      "nome": "São Francisco do Oeste ",
+      "populacaoTotal": 4161,
+      "obitosMaternos": 0,
+      "nascidosVivos": 40,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 40
+    }
+  },
+  {
+    "district": "path134",
+    "details": {
+      "codigo": 241200,
+      "nome": "São Gonçalo do Amarante ",
+      "populacaoTotal": 115838,
+      "obitosMaternos": 0,
+      "nascidosVivos": 1461,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 1461
+    }
+  },
+  {
+    "district": "path135",
+    "details": {
+      "codigo": 241210,
+      "nome": "São João do Sabugi ",
+      "populacaoTotal": 5956,
+      "obitosMaternos": 0,
+      "nascidosVivos": 40,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 40
+    }
+  },
+  {
+    "district": "path136",
+    "details": {
+      "codigo": 241220,
+      "nome": "São José de Mipibu ",
+      "populacaoTotal": 47286,
+      "obitosMaternos": 2,
+      "nascidosVivos": 623,
+      "mortalidadeMaterna": 321.0,
+      "totalConsultasPreNatal": 623
+    }
+  },
+  {
+    "district": "path137",
+    "details": {
+      "codigo": 241230,
+      "nome": "São José do Campestre ",
+      "populacaoTotal": 11121,
+      "obitosMaternos": 0,
+      "nascidosVivos": 126,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 126
+    }
+  },
+  {
+    "district": "path138",
+    "details": {
+      "codigo": 241240,
+      "nome": "São José do Seridó ",
+      "populacaoTotal": 4558,
+      "obitosMaternos": 0,
+      "nascidosVivos": 33,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 33
+    }
+  },
+  {
+    "district": "path139",
+    "details": {
+      "codigo": 241250,
+      "nome": "São Miguel ",
+      "populacaoTotal": 23537,
+      "obitosMaternos": 0,
+      "nascidosVivos": 303,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 303
+    }
+  },
+  {
+    "district": "path140",
+    "details": {
+      "codigo": 241255,
+      "nome": "São Miguel do Gostoso ",
+      "populacaoTotal": 10221,
+      "obitosMaternos": 0,
+      "nascidosVivos": 147,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 147
+    }
+  },
+  {
+    "district": "path141",
+    "details": {
+      "codigo": 241260,
+      "nome": "São Paulo do Potengi ",
+      "populacaoTotal": 16786,
+      "obitosMaternos": 0,
+      "nascidosVivos": 186,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 186
+    }
+  },
+  {
+    "district": "path142",
+    "details": {
+      "codigo": 241270,
+      "nome": "São Pedro ",
+      "populacaoTotal": 5776,
+      "obitosMaternos": 0,
+      "nascidosVivos": 69,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 69
+    }
+  },
+  {
+    "district": "path143",
+    "details": {
+      "codigo": 241280,
+      "nome": "São Rafael ",
+      "populacaoTotal": 7711,
+      "obitosMaternos": 0,
+      "nascidosVivos": 74,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 74
+    }
+  },
+  {
+    "district": "path144",
+    "details": {
+      "codigo": 241290,
+      "nome": "São Tomé ",
+      "populacaoTotal": 9972,
+      "obitosMaternos": 0,
+      "nascidosVivos": 89,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 89
+    }
+  },
+  {
+    "district": "path145",
+    "details": {
+      "codigo": 241300,
+      "nome": "São Vicente ",
+      "populacaoTotal": 6310,
+      "obitosMaternos": 0,
+      "nascidosVivos": 68,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 68
+    }
+  },
+  {
+    "district": "path146",
+    "details": {
+      "codigo": 241310,
+      "nome": "Senador Elói de Souza ",
+      "populacaoTotal": 5965,
+      "obitosMaternos": 0,
+      "nascidosVivos": 83,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 83
+    }
+  },
+  {
+    "district": "path147",
+    "details": {
+      "codigo": 241320,
+      "nome": "Senador Georgino Avelino ",
+      "populacaoTotal": 4065,
+      "obitosMaternos": 0,
+      "nascidosVivos": 56,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 56
+    }
+  },
+  {
+    "district": "path116",
+    "details": {
+      "codigo": 241030,
+      "nome": "Serra Caiada ",
+      "populacaoTotal": 10125,
+      "obitosMaternos": 0,
+      "nascidosVivos": 118,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 118
+    }
+  },
+  {
+    "district": "path148",
+    "details": {
+      "codigo": 241330,
+      "nome": "Serra de São Bento ",
+      "populacaoTotal": 5703,
+      "obitosMaternos": 0,
+      "nascidosVivos": 56,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 56
+    }
+  },
+  {
+    "district": "path149",
+    "details": {
+      "codigo": 241335,
+      "nome": "Serra do Mel ",
+      "populacaoTotal": 13091,
+      "obitosMaternos": 0,
+      "nascidosVivos": 222,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 222
+    }
+  },
+  {
+    "district": "path150",
+    "details": {
+      "codigo": 241340,
+      "nome": "Serra Negra do Norte ",
+      "populacaoTotal": 7597,
+      "obitosMaternos": 0,
+      "nascidosVivos": 58,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 58
+    }
+  },
+  {
+    "district": "path151",
+    "details": {
+      "codigo": 241350,
+      "nome": "Serrinha ",
+      "populacaoTotal": 6436,
+      "obitosMaternos": 0,
+      "nascidosVivos": 91,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 91
+    }
+  },
+  {
+    "district": "path152",
+    "details": {
+      "codigo": 241355,
+      "nome": "Serrinha dos Pintos ",
+      "populacaoTotal": 4659,
+      "obitosMaternos": 0,
+      "nascidosVivos": 32,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 32
+    }
+  },
+  {
+    "district": "path153",
+    "details": {
+      "codigo": 241360,
+      "nome": "Severiano Melo ",
+      "populacaoTotal": 5487,
+      "obitosMaternos": 1,
+      "nascidosVivos": 60,
+      "mortalidadeMaterna": 1666.7,
+      "totalConsultasPreNatal": 60
+    }
+  },
+  {
+    "district": "path154",
+    "details": {
+      "codigo": 241370,
+      "nome": "Sítio Novo ",
+      "populacaoTotal": 4654,
+      "obitosMaternos": 0,
+      "nascidosVivos": 50,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 50
+    }
+  },
+  {
+    "district": "path155",
+    "details": {
+      "codigo": 241380,
+      "nome": "Taboleiro Grande ",
+      "populacaoTotal": 2338,
+      "obitosMaternos": 0,
+      "nascidosVivos": 22,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 22
+    }
+  },
+  {
+    "district": "path156",
+    "details": {
+      "codigo": 241390,
+      "nome": "Taipu ",
+      "populacaoTotal": 11422,
+      "obitosMaternos": 0,
+      "nascidosVivos": 132,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 132
+    }
+  },
+  {
+    "district": "path157",
+    "details": {
+      "codigo": 241400,
+      "nome": "Tangará ",
+      "populacaoTotal": 13281,
+      "obitosMaternos": 0,
+      "nascidosVivos": 166,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 166
+    }
+  },
+  {
+    "district": "path158",
+    "details": {
+      "codigo": 241410,
+      "nome": "Tenente Ananias ",
+      "populacaoTotal": 10262,
+      "obitosMaternos": 0,
+      "nascidosVivos": 128,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 128
+    }
+  },
+  {
+    "district": "path159",
+    "details": {
+      "codigo": 241415,
+      "nome": "Tenente Laurentino Cruz ",
+      "populacaoTotal": 5891,
+      "obitosMaternos": 0,
+      "nascidosVivos": 83,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 83
+    }
+  },
+  {
+    "district": "path124",
+    "details": {
+      "codigo": 241105,
+      "nome": "Tibau ",
+      "populacaoTotal": 5382,
+      "obitosMaternos": 0,
+      "nascidosVivos": 80,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 80
+    }
+  },
+  {
+    "district": "path160",
+    "details": {
+      "codigo": 241420,
+      "nome": "Tibau do Sul ",
+      "populacaoTotal": 16929,
+      "obitosMaternos": 0,
+      "nascidosVivos": 215,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 215
+    }
+  },
+  {
+    "district": "path161",
+    "details": {
+      "codigo": 241430,
+      "nome": "Timbaúba dos Batistas ",
+      "populacaoTotal": 2348,
+      "obitosMaternos": 0,
+      "nascidosVivos": 13,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 13
+    }
+  },
+  {
+    "district": "path162",
+    "details": {
+      "codigo": 241440,
+      "nome": "Touros ",
+      "populacaoTotal": 33035,
+      "obitosMaternos": 0,
+      "nascidosVivos": 440,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 440
+    }
+  },
+  {
+    "district": "path163",
+    "details": {
+      "codigo": 241445,
+      "nome": "Triunfo Potiguar ",
+      "populacaoTotal": 3376,
+      "obitosMaternos": 0,
+      "nascidosVivos": 62,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 62
+    }
+  },
+  {
+    "district": "path164",
+    "details": {
+      "codigo": 241450,
+      "nome": "Umarizal ",
+      "populacaoTotal": 10078,
+      "obitosMaternos": 0,
+      "nascidosVivos": 81,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 81
+    }
+  },
+  {
+    "district": "path165",
+    "details": {
+      "codigo": 241460,
+      "nome": "Upanema ",
+      "populacaoTotal": 13577,
+      "obitosMaternos": 0,
+      "nascidosVivos": 122,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 122
+    }
+  },
+  {
+    "district": "path166",
+    "details": {
+      "codigo": 241470,
+      "nome": "Várzea ",
+      "populacaoTotal": 5233,
+      "obitosMaternos": 0,
+      "nascidosVivos": 43,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 43
+    }
+  },
+  {
+    "district": "path167",
+    "details": {
+      "codigo": 241475,
+      "nome": "Venha-Ver ",
+      "populacaoTotal": 3014,
+      "obitosMaternos": 0,
+      "nascidosVivos": 36,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 36
+    }
+  },
+  {
+    "district": "path168",
+    "details": {
+      "codigo": 241480,
+      "nome": "Vera Cruz ",
+      "populacaoTotal": 10735,
+      "obitosMaternos": 0,
+      "nascidosVivos": 144,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 144
+    }
+  },
+  {
+    "district": "path169",
+    "details": {
+      "codigo": 241490,
+      "nome": "Viçosa ",
+      "populacaoTotal": 1822,
+      "obitosMaternos": 0,
+      "nascidosVivos": 15,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 15
+    }
+  },
+  {
+    "district": "path170",
+    "details": {
+      "codigo": 241500,
+      "nome": "Vila Flor ",
+      "populacaoTotal": 3174,
+      "obitosMaternos": 0,
+      "nascidosVivos": 57,
+      "mortalidadeMaterna": 0.0,
+      "totalConsultasPreNatal": 57
+    }
+  }
+]

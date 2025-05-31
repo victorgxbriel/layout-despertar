@@ -1,0 +1,10 @@
+<main [ngClass] = "mapAnimationClass" class="flex flex-col justify-center items-center">
+    <div [innerHTML]="svgContent" class="svg-map-container w-full"></div>
+    <app-tooltip 
+        [description]="tooltipDescription"
+        [dadosCidade]="tootltipData"
+        [title]="tooltipTitle"
+        [visible]="tooltipVisible"
+        [position]="tooltipPosition"/>
+    <span class="sm:text-sm text-center">Fontes: População - IBGE - Censo Demográfico 2022 / Nascimentos, Óbitos e Pré-Natal - DATASUS/SIM/SINASC </span>
+</main>

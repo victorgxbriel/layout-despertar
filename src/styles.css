@@ -13,9 +13,27 @@ html, body { height: 100%; color: #6d7578; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 :root {
-  --purple-1: #e6b39a;
-  --purple-2: #d78060;
-  --purple-3: #ce6141;
+  --old-1: #e6b39a ;
+  --old-2: #d78060;
+  --old-3: #ce6141;
+  --purple-1: #b2e2ef;
+  --purple-2: #65c4dd;
+  --purple-3: #2692b4;
+  --gray-light: #F0F0F0;
   --gray-0: #fafdea;
   --gray-1: #ede3b4;
+  --color-seagull-50: #effafc;
+  --color-seagull-100: #d6f1f7;
+  --color-seagull-200: #b2e2ef;
+  --color-seagull-300: #65c4dd;
+  --color-seagull-400: #42afce;
+  --color-seagull-500: #2692b4;
+  --color-seagull-600: #227698;
+  --color-seagull-700: #22617c;
+  --color-seagull-800: #245066;
+  --color-seagull-900: #224457;
+  --color-seagull-950: #112b3b;
+
+
+
 }

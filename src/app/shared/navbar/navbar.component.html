@@ -2,7 +2,7 @@
   <!-- Logo -->
   <div class="pl-4 flex">
     <a [routerLink]="'/'">
-      <img src="image.png" class="w-24 h-24" alt="Logo">
+      <img src="logo_despertar.png" class="w-24 h-24" alt="Logo">
     </a>
   </div>
 
@@ -18,6 +18,7 @@
         <i class="ph ph-list text-3xl text-[--gray-0]"></i>
       </button>
       <mat-menu #menu="matMenu" class="md:hidden">
+        <a mat-menu-item routerLink="about-us" class="!text-[--purple-3] !hover:bg-[--purple-1]">Quem somos</a>
         <a mat-menu-item routerLink="data" class="!text-[--purple-3] !hover:bg-[--purple-1]">Dados</a>
         <a mat-menu-item routerLink="news" class="!text-[--purple-3] !hover:bg-[--purple-1]">Notícias</a>
         <a mat-menu-item routerLink="repository" class="!text-[--purple-3] !hover:bg-[--purple-1]">Repositórios</a>
