@@ -36,11 +36,11 @@ export class DataMapComponent {
     this.dadosMunicipio.set(district)
   }
 
-  private fetchMunicipioData(estadoCode: string, cidadeDistrict: string): void {
+  private async fetchMunicipioData(estadoCode: string, cidadeDistrict: string) {
     this.isLoadingData.set(true);
     this.dadosMunicipio.set(undefined); // Limpa dados anteriores enquanto carrega
 
-    this.http.get<IDadosJSON[]>(`assets/data/${estadoCode}.json`).subscribe({
+    this.http.get<IDadosJSON[]>(`/wp-content/uploads/2026/03/${estadoCode}.json`).subscribe({
       next: (cidadesDoEstado) => {
         const cidadeEncontrada = cidadesDoEstado.find(c => c.district === cidadeDistrict);
         if (cidadeEncontrada) {

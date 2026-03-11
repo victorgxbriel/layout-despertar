@@ -110,7 +110,7 @@ export class MapRnComponent {
   }
 
   loadData(mapCode: string): void {
-    this.http.get<IDadosJSON[]>(`assets/data/${mapCode}.json`).subscribe((data) => {
+    this.http.get<IDadosJSON[]>(`/wp-content/uploads/2026/03/${mapCode}.json`).subscribe((data) => {
       this.dataContent = data
     })
   }

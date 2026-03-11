@@ -1,0 +1,7 @@
+{
+  "/wp-content": {
+    "target": "https://redeesme.ccs.ufrn.br",
+    "secure": true,
+    "changeOrigin": true
+  }
+}
